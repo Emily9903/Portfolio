@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <h1>Emily Vickery</h1>
       <h2>Full Stack Junior Software Developer</h2>
-      <image src={profilePic} alt="Profile Picture"/>
+      <img src={profilePic} alt="Profile Picture"/>
     </div>
   )
 }
